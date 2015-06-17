@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  ExampleFramework
+
+  Created by Martin Andreas Ullrich on 14.06.15.
+  Copyright (c) 2015 Martin Andreas Ullrich. All rights reserved.
+*/
+
+"Welcome" = "Welcome to the framework (from en.lproj/Localizable.strings)";
+"Hello" = "Hello";

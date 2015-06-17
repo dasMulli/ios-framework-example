@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "This is a View Controller of an iOS Framework"; ObjectID = "82d-1p-s0b"; */
+"82d-1p-s0b.text" = "Dieser ViewController enstammt einem Framework-Projekt";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Ptd-Ok-Kbb"; */
+"Ptd-Ok-Kbb.title" = "schließen";
+
+/* Class = "UIButton"; normalTitle = "navigate somewhere"; ObjectID = "Vne-Nc-Pb1"; */
+"Vne-Nc-Pb1.normalTitle" = "weiter navigieren";
